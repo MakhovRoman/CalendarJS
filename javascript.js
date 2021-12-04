@@ -1,4 +1,4 @@
-onst table = document.createElement('table');
+const table = document.createElement('table');
 document.body.append(table);
 table.style.borderCollapse = 'collapse';
 table.style.margin = `${50}px auto`;
