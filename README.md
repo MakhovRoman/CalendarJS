@@ -8,3 +8,7 @@
   <li>вынести элементы ввода данных в форму</li>
   <li>провести рефакторинг кода</li>
 </ul>
+
+<h3>Stack</h3>
+
+![My Skills](https://skillicons.dev/icons?i=html,js)
